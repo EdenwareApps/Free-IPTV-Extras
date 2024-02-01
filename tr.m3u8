@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/oFqTaFt.png" aspect-ratio="16:9" type="stream", TRT World
+#EXTBG: #222
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8?sd=10&amp;rebase=on
+

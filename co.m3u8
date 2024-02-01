@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33BPpld.png" aspect-ratio="16:9" type="stream", RCN
+#EXTBG: #0c5fb6
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+

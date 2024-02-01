@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="teleSUR" tvg-logo="https://i.imgur.com/4OwUVkf.png" aspect-ratio="16:9" type="stream", teleSUR
+#EXTBG: #2d1e3d
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/chunklist_w801355776.m3u8
+

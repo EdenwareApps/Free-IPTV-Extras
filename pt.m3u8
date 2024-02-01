@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7uUaVQ.png" aspect-ratio="16:9" type="stream", RTP 1
+#EXTBG: #0074ff
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrB7Z3L.png" aspect-ratio="16:9" type="stream", RTP 2
+#EXTBG: #ffdb00
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruNv4O3.png" aspect-ratio="16:9" type="stream", RTP 3
+#EXTBG: #0037e6
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQWDEQz.png" aspect-ratio="16:9" type="stream", TVI
+#EXTBG: #222222
+http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jM0NiwC.png" aspect-ratio="16:9" type="stream", TVI 24
+#EXTBG: #222222
+http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+

@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Rai 4" tvg-logo="https://i.imgur.com/VtDfqZb.png" aspect-ratio="16:9" type="stream", Rai 4
+#EXTBG: #9d2fe5
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-name="Rai 5" tvg-logo="https://i.imgur.com/MWrcXvu.png" aspect-ratio="16:9" type="stream", Rai 5
+#EXTBG: #606806
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-logo="https://i.imgur.com/XOLHFxD.png" aspect-ratio="16:9" type="stream", Rai Gulp
+#EXTBG: #00ccff
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1 tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/oSv1h2H.png" aspect-ratio="16:9" type="stream", Rai Movie
+#EXTBG: #7d0841
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-name="Rai News24" tvg-logo="https://i.imgur.com/RGvOfPQ.png" aspect-ratio="16:9" type="stream", Rai News24
+#EXTBG: #3b6ae4
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/NP1dlUe.png" aspect-ratio="16:9" type="stream", Rai Premium
+#EXTBG: #135f7e
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-name="Rai YoYo" tvg-logo="https://i.imgur.com/4NHHaum.png" aspect-ratio="16:9" type="stream", Rai YoYo
+#EXTBG: #009933
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+

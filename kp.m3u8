@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfnOkxd.png" aspect-ratio="4:3" type="stream", KCTV
+#EXTBG: #070a44
+https://tv.nknews.org/tvhls/stream.m3u8
+

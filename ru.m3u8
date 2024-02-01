@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAYDCDO.png" aspect-ratio="16:9" type="stream", RT Documentary
+#EXTBG: #12100b
+https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8?stream_start_offset=14000000&amp;stream_dvr_window=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFOOo6S.png" aspect-ratio="16:9" type="stream", RT News
+#EXTBG: #12100b
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+

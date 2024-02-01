@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/maajnAz.png" aspect-ratio="16:9" type="stream", CCTV-01
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NjdAH5.png" aspect-ratio="16:9" type="stream", CCTV-02
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tk1Pe99.png" aspect-ratio="16:9" type="stream", CCTV-03
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ioWfrOk.png" aspect-ratio="16:9" type="stream", CCTV-04
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHrh0nn.png" aspect-ratio="16:9" type="stream", CCTV-05
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIOvfzD.png" aspect-ratio="16:9" type="stream", CCTV-05+
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stkjjTW.png" aspect-ratio="16:9" type="stream", CCTV-06
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWMN0EP.png" aspect-ratio="16:9" type="stream", CCTV-07
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lLpdEIA.png" aspect-ratio="16:9" type="stream", CCTV-08
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ePB3LV.png" aspect-ratio="16:9" type="stream", CCTV-09
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YmgGeaN.png" aspect-ratio="16:9" type="stream", CCTV-10
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDjwXh0.png" aspect-ratio="16:9" type="stream", CCTV-11
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qW1wxBM.png" aspect-ratio="16:9" type="stream", CCTV-12
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3whvjPd.png" aspect-ratio="16:9" type="stream", CCTV-13
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Wbp5Vx.png" aspect-ratio="16:9" type="stream", CCTV-14
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3IsboW.png" aspect-ratio="16:9" type="stream", CCTV-15
+#EXTBG: #363739
+http://itv.ahau.edu.cn/hls/cctv15.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBdekN5.png" aspect-ratio="16:9" type="stream", CGTN
+#EXTBG: #2e2e2e
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ProKT8U.png" aspect-ratio="16:9" type="stream", CGTN Documentary
+#EXTBG: #2e2e2e
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYeEIPF.png" aspect-ratio="16:9" type="stream", Dragon TV
+#EXTBG: #800000
+http://itv.ahau.edu.cn/hls/dfhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1WytNh.png" aspect-ratio="16:9" type="stream", Zhejiang
+#EXTBG: #2691cf
+http://itv.ahau.edu.cn/hls/zjhd.m3u8
+

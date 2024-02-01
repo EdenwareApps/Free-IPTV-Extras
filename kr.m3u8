@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RwyaYX.png" aspect-ratio="16:9" type="stream", Arirang UN
+#EXTBG: #000000
+https://www.youtube.com/watch?v=Od6FreN_CnE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RwyaYX.png" aspect-ratio="16:9" type="stream", Arirang World
+#EXTBG: #000000
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Kids" tvg-logo="https://i.imgur.com/3WjFGay.png" aspect-ratio="16:9" type="stream", EBS Kids
+#EXTBG: #1f3468
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS PLUS1" tvg-logo="https://i.imgur.com/eMWbhpA.png" aspect-ratio="16:9" type="stream", EBS+ 1
+#EXTBG: #1f3468
+http://58.229.187.43/plus1familypc/_definst_/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS PLUS2" tvg-logo="https://i.imgur.com/LI4l4sq.png" aspect-ratio="16:9" type="stream", EBS+ 2
+#EXTBG: #1f3468
+http://110.10.122.111/plus2familypc/_definst_/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://i.imgur.com/kilKnQK.png" aspect-ratio="16:9" type="stream", EBS1
+#EXTBG: #1f3468
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://i.imgur.com/ZJY9R8o.png" aspect-ratio="16:9" type="stream", EBS2
+#EXTBG: #1f3468
+http://222.239.21.155/ebs2familypc/_definst_/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBSe" tvg-logo="https://i.imgur.com/eNazlEM.png" aspect-ratio="16:9" type="stream", EBSe
+#EXTBG: #1f3468
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dHjnRB.png" aspect-ratio="16:9" type="stream", KBS World 24
+#EXTBG: #000000
+https://www.youtube.com/watch?v=WCGFReEDws8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBF43Zd.png" aspect-ratio="16:9" type="stream", YTN
+#EXTBG: #000000
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I895PRL.png" aspect-ratio="16:9" type="stream", YTN News
+#EXTBG: #000000
+https://www.youtube.com/watch?v=U_sYIKWhJvk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYl6k4L.png" aspect-ratio="16:9" type="stream", tbs
+#EXTBG: #6295c8
+http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+

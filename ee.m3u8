@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/30495902/d7tv_pill_200x200.gif", D7TV
+https://d7tv.pp.ua/hls/d7tv.m3u8

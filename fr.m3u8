@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/7jJdxFb.png" aspect-ratio="16:9" type="stream", France 24
+#EXTBG: #00a7e3
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/la0N5Ns.png" aspect-ratio="16:9" type="stream", TV5 Monde
+#EXTBG: #00abe9
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
