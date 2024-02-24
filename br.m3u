@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uuty5zp.png" aspect-ratio="16:9" type="stream", CBTV
+#EXTBG: #111111
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8b8ughV.png" aspect-ratio="16:9" type="stream", CNN Brasil
+#EXTBG: #cc0000
+https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S2Cg5lz.png" aspect-ratio="16:9" type="stream", Canal Saúde
+#EXTBG: #536188
+https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMpdsMB.png" aspect-ratio="16:9" type="stream", TV Aracati
+#EXTBG: #000000
+https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9chKtaz.png" aspect-ratio="16:9" type="stream", TV Brasil 2
+#EXTBG: #f2f2f2
+http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1stOTF.png" aspect-ratio="16:9" type="stream", TV Câmara
+#EXTBG: #127b81
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1stOTF.png" aspect-ratio="16:9" type="stream", TV Câmara
+#EXTBG: #127b81
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/REDEMUNDOTV.png" type="stream", Rede Mundo TV
+https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/REDEVIRTUALTV.png" type="stream", Rede Virtual TV (Rede Brasil)
+https://st-srv02.alfamax.com.br/VirtualTV/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/RBTVPARANA.png" type="stream", RBTV Paraná (RBTV)
+https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/TVBELTRAO.png" type="stream", TV Beltrão (TV Brasil) - Paraná
+https://st-srv02.alfamax.com.br/TVBELTRAO/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/OLHATV.png" type="stream", Olha TV
+https://5cf4a2c2512a2.streamlock.net/8272/8272/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/VRTCHANNEL.png" type="stream", VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
