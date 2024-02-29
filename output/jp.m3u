@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKcwcJl.png" aspect-ratio="16:9" type="stream", ANN
+#EXTBG: #1a2c60
+https://www.youtube.com/watch?v=coYw-eVU0Ks

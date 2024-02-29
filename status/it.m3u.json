@@ -1,0 +1,37 @@
+[
+  {
+    "link": "http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:50.640Z"
+  },
+  {
+    "link": "http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:50.801Z"
+  },
+  {
+    "link": "http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:50.958Z"
+  },
+  {
+    "link": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:51.108Z"
+  },
+  {
+    "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:51.333Z"
+  },
+  {
+    "link": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:51.495Z"
+  },
+  {
+    "link": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:51.663Z"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "link": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:43.342Z"
+  },
+  {
+    "link": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:43.875Z"
+  },
+  {
+    "link": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:44.366Z"
+  },
+  {
+    "link": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:44.922Z"
+  },
+  {
+    "link": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:45.496Z"
+  },
+  {
+    "link": "https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:45.876Z"
+  },
+  {
+    "link": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:46.234Z"
+  },
+  {
+    "link": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:46.928Z"
+  },
+  {
+    "link": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&amp;rebase=on",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:47.536Z"
+  },
+  {
+    "link": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:47.854Z"
+  }
+]

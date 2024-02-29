@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1stOTF.png" aspect-ratio="16:9" type="stream", TV Câmara
+#EXTBG: #127b81
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1stOTF.png" aspect-ratio="16:9" type="stream", TV Câmara
+#EXTBG: #127b81
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/REDEMUNDOTV.png" type="stream", Rede Mundo TV
+https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/REDEVIRTUALTV.png" type="stream", Rede Virtual TV (Rede Brasil)
+https://st-srv02.alfamax.com.br/VirtualTV/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/RBTVPARANA.png" type="stream", RBTV Paraná (RBTV)
+https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/TVBELTRAO.png" type="stream", TV Beltrão (TV Brasil) - Paraná
+https://st-srv02.alfamax.com.br/TVBELTRAO/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/OLHATV.png" type="stream", Olha TV
+https://5cf4a2c2512a2.streamlock.net/8272/8272/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/VRTCHANNEL.png" type="stream", VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8

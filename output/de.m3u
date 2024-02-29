@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bJJr7m.png" aspect-ratio="16:9" type="stream", Das Erste
+#EXTBG: #093e82
+https://mcdn.daserste.de/daserste/int/master.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RwyaYX.png" aspect-ratio="16:9" type="stream", Arirang UN
+#EXTBG: #000000
+https://www.youtube.com/watch?v=Od6FreN_CnE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RwyaYX.png" aspect-ratio="16:9" type="stream", Arirang World
+#EXTBG: #000000
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dHjnRB.png" aspect-ratio="16:9" type="stream", KBS World 24
+#EXTBG: #000000
+https://www.youtube.com/watch?v=WCGFReEDws8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I895PRL.png" aspect-ratio="16:9" type="stream", YTN News
+#EXTBG: #000000
+https://www.youtube.com/watch?v=U_sYIKWhJvk

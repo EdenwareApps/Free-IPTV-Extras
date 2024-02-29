@@ -1,0 +1,27 @@
+[
+  {
+    "link": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
+    "status": 200,
+    "timestamp": "2024-02-29T20:47:52.330Z"
+  },
+  {
+    "link": "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:52.780Z"
+  },
+  {
+    "link": "https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:56.910Z"
+  },
+  {
+    "link": "http://movie.mcas.jp/mcas/mx2_2/master.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:48:18.946Z"
+  },
+  {
+    "link": "http://movie.mcas.jp/mcas/wn1_2/master.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:48:39.564Z"
+  }
+]

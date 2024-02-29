@@ -1,0 +1,67 @@
+[
+  {
+    "link": "https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:40.558Z"
+  },
+  {
+    "link": "https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:40.596Z"
+  },
+  {
+    "link": "https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:40.635Z"
+  },
+  {
+    "link": "https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:42.391Z"
+  },
+  {
+    "link": "http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/manifest.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:42.708Z"
+  },
+  {
+    "link": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:42.929Z"
+  },
+  {
+    "link": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:42.929Z"
+  },
+  {
+    "link": "https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:43.132Z"
+  },
+  {
+    "link": "https://st-srv02.alfamax.com.br/VirtualTV/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:43.271Z"
+  },
+  {
+    "link": "https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:43.416Z"
+  },
+  {
+    "link": "https://st-srv02.alfamax.com.br/TVBELTRAO/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:51.579Z"
+  },
+  {
+    "link": "https://5cf4a2c2512a2.streamlock.net/8272/8272/chunklist.m3u8",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:52.424Z"
+  },
+  {
+    "link": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
+    "status": 200,
+    "timestamp": "2024-02-29T20:46:52.619Z"
+  }
+]

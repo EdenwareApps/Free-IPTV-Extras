@@ -1,0 +1,102 @@
+[
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv1hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:55.028Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv2hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:57.545Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv3hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:46:59.943Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv4hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:02.300Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv5hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:04.685Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv5phd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:07.045Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv6hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:09.402Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv7hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:11.776Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv8hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:14.132Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv9hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:16.540Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv10hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:18.857Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv11.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:21.228Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv12hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:23.590Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv13.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:25.975Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv14hd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:28.359Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/cctv15.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:30.672Z"
+  },
+  {
+    "link": "https://live.cgtn.com/1000/prog_index.m3u8",
+    "status": 200,
+    "timestamp": "2024-02-29T20:47:31.985Z"
+  },
+  {
+    "link": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+    "status": 200,
+    "timestamp": "2024-02-29T20:47:33.238Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/dfhd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:35.776Z"
+  },
+  {
+    "link": "http://itv.ahau.edu.cn/hls/zjhd.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:47:38.193Z"
+  }
+]

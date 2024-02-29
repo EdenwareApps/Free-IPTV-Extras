@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/L9lYhWJ.png" aspect-ratio="16:9" type="stream", Bloomberg
+#EXTBG: #000000
+https://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwmjsB6.png" aspect-ratio="16:9" type="stream", Red Bull TV
+#EXTBG: #011325
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8

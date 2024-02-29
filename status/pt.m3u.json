@@ -1,0 +1,27 @@
+[
+  {
+    "link": "http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8",
+    "status": 204,
+    "timestamp": "2024-02-29T20:50:36.759Z"
+  },
+  {
+    "link": "http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8",
+    "status": 204,
+    "timestamp": "2024-02-29T20:50:36.878Z"
+  },
+  {
+    "link": "http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b1290000_slpt.m3u8",
+    "status": 204,
+    "timestamp": "2024-02-29T20:50:37.009Z"
+  },
+  {
+    "link": "http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:51:19.099Z"
+  },
+  {
+    "link": "http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8",
+    "status": 0,
+    "timestamp": "2024-02-29T20:52:01.201Z"
+  }
+]
