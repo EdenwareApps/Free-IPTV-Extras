@@ -119,7 +119,7 @@ async function processFolder(inputFolder, outputFolder, statusFolder) {
 }
 
 const inputFolder = './sources';
-const outputFolder = './output';
+const outputFolder = './dist';
 const statusFolder = './status';
 
 processFolder(inputFolder, outputFolder, statusFolder);
