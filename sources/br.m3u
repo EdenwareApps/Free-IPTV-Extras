@@ -28,6 +28,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTBG: #127b81
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" type="stream", Rede Brasil
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://app.megacubo.net/logos/canaisvirtual/REDEMUNDOTV.png" type="stream", Rede Mundo TV
 https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
